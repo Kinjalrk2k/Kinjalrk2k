@@ -1,15 +1,18 @@
 ### Hi there 👋
 
 # Kinjal Raykarmakar
-After done being an Undergrad student of the junior (3rd) year, I love to solve problems through developing software. I'm always learning new ways and technologies. 
+<img align="right" height=100 src="avatar.png">
+
+After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* maked me nerdy. 
 
 ## About me
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kinjalrk2k&show_icons=true">
 
-* :man_student: Undergrad Computer Science and Engineering student
+* :man_student: Computer Science and Engineering student
 * :computer: Writes code in Python 
 * :man_in_motorized_wheelchair: Trying to automate everthing
 * :open_book: Learning Web Development
+* :cry: Strugling with Competitive coding 
 * :page_with_curl: Loves to fold paper
 * :video_game: Plays classic games
 * :writing_hand: Writes and maintaines blogs [here](https://blog.spieosauemk.team/)
