@@ -3,7 +3,7 @@
 # Kinjal Raykarmakar
 <img align="right" height=100 src="https://github.com/Kinjalrk2k/Kinjalrk2k/blob/master/avatar.png">
 
-After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* maked me nerdy. 
+After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* makes me nerdy. 
 
 ## About me
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kinjalrk2k&show_icons=true">
