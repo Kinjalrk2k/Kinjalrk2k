@@ -21,7 +21,7 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 
 <hr>
 
-
+<!-- ![Profile views](https://gpvc.arturio.dev/Kinjalrk2k) -->
 
 <!-- ![KInjal's github stats](https://github-readme-stats.vercel.app/api?username=kinjalrk2k&show_icons=true) -->
 
