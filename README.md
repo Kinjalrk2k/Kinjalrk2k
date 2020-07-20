@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
 
-# Kinjal Raykarmakar
+
+# Kinjal Raykarmakar [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kinjal-raykarmakar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kinjal.raykarmakar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kinjal.raykarmakar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kinjal2209)  
 <img align="right" height=100 src="https://github.com/Kinjalrk2k/Kinjalrk2k/blob/master/avatar.png">
 
 After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* makes me nerdy. 
