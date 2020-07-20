@@ -10,7 +10,7 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kinjalrk2k&show_icons=true"> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kinjalrk2k&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
-* :man_student: Computer Science and Engineering student
+* :man_student: Studies Computer Science and Engineering
 * :computer: Writes code in Python 
 * :man_in_motorized_wheelchair: Trying to automate everthing
 * :open_book: Learning Web Development
