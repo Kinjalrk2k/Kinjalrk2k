@@ -24,11 +24,17 @@
 <a href="https://www.quora.com/profile/Kinjal-Raykarmakar">
   <img align="left" alt="Kinjal | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
+<a href="https://stackoverflow.com/users/10537134/kinjal-raykarmakar">
+  <img align="left" alt="Kinjal | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 <a href="https://www.hackerrank.com/kinjalrk2k">
   <img align="left" alt="Kinjal | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>
 </a>
 <a href="https://www.codechef.com/users/kinjalrk2k">
   <img align="left" alt="Kinjal | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://blog.spieosauemk.team/">
+  <img align="left" alt="Kinjal | SPIE-OSA UEMK Student Chapter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>
 
 <br>
