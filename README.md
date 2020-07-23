@@ -9,12 +9,28 @@
 <a href="https://www.linkedin.com/in/kinjal-raykarmakar">
   <img align="left" alt="Kinjal | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.hackerrank.com/kinjalrk2k">
-  <img align="left" alt="Kinjal | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
 <a href="https://twitter.com/kinjal2209">
   <img align="left" alt="Kinjal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://www.deviantart.com/kinjal2209">
+  <img align="left" alt="Kinjal | Deviantart" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deviantart.svg" />
+</a>
+<a href="https://in.pinterest.com/kinjalraykarmak">
+  <img align="left" alt="Kinjal | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCINTZKi7pDBr_iDkibhTXVg/">
+  <img align="left" alt="Kinjal | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://www.quora.com/profile/Kinjal-Raykarmakar">
+  <img align="left" alt="Kinjal | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
+</a>
+<a href="https://www.hackerrank.com/kinjalrk2k">
+  <img align="left" alt="Kinjal | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>
+</a>
+<a href="https://www.codechef.com/users/kinjalrk2k">
+  <img align="left" alt="Kinjal | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+
 <br>
 <br>
 After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* makes me nerdy. 
