@@ -27,7 +27,7 @@
 <a href="https://stackoverflow.com/users/10537134/kinjal-raykarmakar">
   <img align="left" alt="Kinjal | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://stackoverflow.com/users/10537134/kinjal-raykarmakar">
+<a href="https://profile.codersrank.io/user/kinjalrk2k">
   <img align="left" alt="Kinjal | CodersRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />
 </a>
 <a href="https://www.hackerrank.com/kinjalrk2k">
