@@ -24,6 +24,9 @@
 <a href="https://www.quora.com/profile/Kinjal-Raykarmakar">
   <img align="left" alt="Kinjal | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
+<a href="https://www.reddit.com/user/krk2k">
+  <img align="left" alt="krk2k | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
 <a href="https://stackoverflow.com/users/10537134/kinjal-raykarmakar">
   <img align="left" alt="Kinjal | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
