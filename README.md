@@ -42,6 +42,10 @@
 <a href="https://blog.spieosauemk.team/">
   <img align="left" alt="Kinjal | SPIE-OSA UEMK Student Chapter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>
+<a href="https://www.youracclaim.com/users/kinjalrk2k">
+  <img align="left" alt="Kinjal | Acclaim" width="22px" src="https://cdn.youracclaim.com/packs/media/src/images/acclaim-logo-white-d8c47c4f5317c718684181d03dd72fde.svg" />
+</a>
+
 
 <br>
 <br>
