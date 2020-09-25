@@ -63,7 +63,7 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 
 * :man_student: Studies Computer Science and Engineering
 * :computer: Writes code in Python 
-* :man_in_motorized_wheelchair: Trying to automate everthing
+* :man_in_motorized_wheelchair: Trying to automate everything
 * :open_book: Learning Web Development
 * :cry: Strugling with Competitive coding 
 * :page_with_curl: Loves to fold paper
