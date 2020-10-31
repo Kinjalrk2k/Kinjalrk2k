@@ -45,14 +45,16 @@
 <a href="https://www.youracclaim.com/users/kinjalrk2k">
   <img align="left" alt="Kinjal | Acclaim" height="22px" src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" />
 </a>
-
+<a href="https://dsc.community.dev/u/m2b78f">
+  <img align="left" alt="Kinjal | Google Developer Student Club" height="22px" src="https://dscinberlin.de/img/logo_color.png" />
+</a>
 
 <br>
 <br>
 
 <img align="right" alt="Kinjal | Avatar" width="100px" src="https://github.com/Kinjalrk2k/Kinjalrk2k/blob/master/avatar.png" />
 
-After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* makes me nerdy. 
+After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* make me nerdy. 
 
 
 ## About me
