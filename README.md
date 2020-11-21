@@ -1,13 +1,13 @@
 # Kinjal Raykarmakar 
 
 <a href="https://www.facebook.com/kinjal.raykarmakar">
-  <img align="left" alt="Kinjal | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Kinjal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/kinjal.raykarmakar">
   <img align="left" alt="Kinjal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kinjal-raykarmakar">
-  <img align="left" alt="Kinjal | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Kinjal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/kinjal2209">
   <img align="left" alt="Kinjal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -59,8 +59,8 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 
 ## About me
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kinjalrk2k&show_icons=true"> -->
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kinjalrk2k&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinjalrk2k&layout=compact&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kinjalrk2k&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinjalrk2k&layout=compact&theme=dark" /> -->
 
 
 * :man_student: Studies Computer Science and Engineering
