@@ -74,7 +74,7 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 
 <hr>
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kinjalrk2k">
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kinjalrk2k&skills=C,C%2B%2B,Python,Javascript,Jupyter%20Notebook,EJS,Java,HTML">
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=kinjalrk2k&layout=compact&theme=onedark">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinjalrk2k&theme=onedark"> -->
