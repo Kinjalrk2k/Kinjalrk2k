@@ -48,6 +48,9 @@
 <a href="https://dsc.community.dev/u/m2b78f">
   <img align="left" alt="Kinjal | Google Developer Student Club" height="22px" src="https://dscinberlin.de/img/logo_color.png" />
 </a>
+<a href="https://dev.to/kinjalrk2k">
+  <img align="left" alt="DEV.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>
 
 <br>
 <br>
@@ -64,12 +67,12 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 
 
 * :man_student: Studies Computer Science and Engineering
-* :computer: Writes code in Python 
+* :computer: Writes code in Python and Javascript
 * :man_in_motorized_wheelchair: Trying to automate everything
 * :open_book: Learning Web Development
 * :cry: Strugling with Competitive coding 
 * :page_with_curl: Loves to fold paper
-* :video_game: Plays classic games
+* :video_game: Plays Minecraft <img alt="Minecraft" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minecraft.svg" />
 * :writing_hand: Writes and maintaines blogs [here](https://blog.spieosauemk.team/)
 
 <hr>
