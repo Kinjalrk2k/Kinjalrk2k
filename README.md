@@ -72,7 +72,7 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 * :open_book: Learning Web Development
 * :cry: Strugling with Competitive coding 
 * :page_with_curl: Loves to fold paper
-* :video_game: Plays Minecraft <img alt="Minecraft" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minecraft.svg" />
+* :video_game: Plays Minecraft
 * :writing_hand: Writes and maintaines blogs [here](https://blog.spieosauemk.team/)
 
 <hr>
