@@ -62,6 +62,7 @@
 
 After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* make me nerdy. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kinjalrk2k&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About me
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kinjalrk2k&show_icons=true"> -->
@@ -80,7 +81,11 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 
 <hr>
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kinjalrk2k&bg=331a00&skills=C,C%2B%2B,Python,Javascript,Jupyter%20Notebook,EJS,Java,HTML">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kinjalrk2k&bg=331a00&skills=C,C%2B%2B,Python,Javascript,Jupyter%20Notebook,EJS,Java,HTML"> -->
+
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=kinjalrk2k&layout=compact&theme=onedark">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinjalrk2k&theme=onedark"> -->
