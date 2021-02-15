@@ -81,7 +81,7 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinjalrk2k&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 <!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kinjalrk2k&bg=331a00&skills=C,C%2B%2B,Python,Javascript,Jupyter%20Notebook,EJS,Java,HTML"> -->
