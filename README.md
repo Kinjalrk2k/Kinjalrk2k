@@ -78,6 +78,7 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 * :page_with_curl: Loves to fold paper
 * :video_game: Plays Minecraft
 * :writing_hand: Writes and maintaines blogs [here](https://blog.spieosauemk.team/)
+* :relaxed: [My website](https://kinjal.co)
 
 <hr>
 <!--
