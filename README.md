@@ -60,7 +60,8 @@
 
 <img align="right" alt="Kinjal | Avatar" width="100px" src="https://github.com/Kinjalrk2k/Kinjalrk2k/blob/master/avatar.png" />
 
-After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* make me nerdy. 
+### [Check out my website!](https://www.kinjal.co)
+After done being an Undergrad *Engineering* student of the Junior (*4th*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* make me nerdy. 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kinjalrk2k&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
