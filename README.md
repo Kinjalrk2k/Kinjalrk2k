@@ -45,9 +45,6 @@
 <a href="https://www.youracclaim.com/users/kinjalrk2k">
   <img align="left" alt="Kinjal | Acclaim" height="22px" src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" />
 </a>
-<a href="https://dsc.community.dev/u/m2b78f">
-  <img align="left" alt="Kinjal | Google Developer Student Club" height="22px" src="https://dscinberlin.de/img/logo_color.png" />
-</a>
 <a href="https://dev.to/kinjalrk2k">
   <img align="left" alt="Kinjal | DEV.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
