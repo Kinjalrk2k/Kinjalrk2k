@@ -82,13 +82,15 @@ As a Computer Science Engineering graduate, I love to solve problems by developi
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 September 2021 - To: 13 September 2022
+From: 15 November 2020 - To: 13 September 2022
 
-Total Time: 23 hrs 19 mins
+Total Time: 216 hrs 30 mins
 
-JavaScript   11 hrs 45 mins  ████████████▓░░░░░░░░░░░░   50.38 %
-JSX          4 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-Other        1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Python            68 hrs 47 mins  ████████░░░░░░░░░░░░░░░░░   31.77 %
+JavaScript        50 hrs 51 mins  ██████░░░░░░░░░░░░░░░░░░░   23.49 %
+JSX               23 hrs 7 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Java              12 hrs 11 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Other             10 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
 ```
 
 <!--END_SECTION:waka-->
