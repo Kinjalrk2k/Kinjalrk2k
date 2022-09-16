@@ -82,16 +82,14 @@ As a Computer Science Engineering graduate, I love to solve problems by developi
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2020 - To: 14 September 2022
+Total Time: 222 hrs 38 mins
 
-Total Time: 220 hrs 15 mins
-
-Python            68 hrs 47 mins  ███████▓░░░░░░░░░░░░░░░░░   31.23 %
-JavaScript        53 hrs 10 mins  ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-JSX               23 hrs 7 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-Java              12 hrs 11 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-Markdown          10 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Other             10 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Python            68 hrs 47 mins  ███████▓░░░░░░░░░░░░░░░░░   30.89 %
+JavaScript        53 hrs 21 mins  ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+JSX               23 hrs 7 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Java              12 hrs 11 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Markdown          11 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Other             10 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
