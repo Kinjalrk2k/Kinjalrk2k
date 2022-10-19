@@ -92,6 +92,8 @@ Other         10 hrs 49 mins  █▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+[![@kinjalrk2k's Holopin board](https://holopin.me/kinjalrk2k)](https://holopin.io/@kinjalrk2k)
+
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinjalrk2k&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
