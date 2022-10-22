@@ -82,12 +82,12 @@ As a Computer Science Engineering graduate, I love to solve problems by developi
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 188 hrs 59 mins
+Total Time: 193 hrs 56 mins
 
-JavaScript    66 hrs 22 mins  ████████▓░░░░░░░░░░░░░░░░   35.13 %
-Python        25 hrs 27 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-JSX           23 hrs 14 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Other         10 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+JavaScript    68 hrs 1 min    ████████▓░░░░░░░░░░░░░░░░   35.08 %
+Python        25 hrs 27 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+JSX           23 hrs 14 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Other         10 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
 ```
 
 <!--END_SECTION:waka-->
