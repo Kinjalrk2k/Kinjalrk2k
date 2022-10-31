@@ -74,7 +74,7 @@ As a Computer Science Engineering graduate, I love to solve problems by developi
 * :cry: Strugling with Competitive coding 
 * :page_with_curl: Loves to fold paper
 * :video_game: Plays Minecraft
-* :relaxed: [My website](https://kinjal.co)
+* :relaxed: [My website](https://kinjal.dev)
 
 <hr>
 
