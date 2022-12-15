@@ -68,7 +68,7 @@ As a Computer Science Engineering graduate, I love to solve problems by developi
 
 
 * :man_student: Studies Computer Science and Engineering
-* :computer: Writes code in Python and Javascript
+* :computer: Writes code in Javascript, Typescript and Python
 * :man_in_motorized_wheelchair: Trying to automate everything
 * :open_book: Learning Web Development
 * :cry: Strugling with Competitive coding 
