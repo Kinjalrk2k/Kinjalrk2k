@@ -67,11 +67,11 @@ As a Computer Science Engineering graduate, I love to solve problems by developi
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinjalrk2k&layout=compact&theme=dark" /> -->
 
 
-* :man_student: Studies Computer Science and Engineering
-* :computer: Writes code in Javascript, Typescript and Python
+* :man_student: Studied Computer Science and Engineering
+* :computer: Writes code in Javascript, Typescript, Python and GoLang
 * :man_in_motorized_wheelchair: Trying to automate everything
 * :open_book: Learning Web Development
-* :cry: Strugling with Competitive coding 
+* :cry: Struggling with Competitive coding 
 * :page_with_curl: Loves to fold paper
 * :video_game: Plays Minecraft
 * :relaxed: [My website](https://kinjal.dev)
