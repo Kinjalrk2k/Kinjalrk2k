@@ -84,7 +84,7 @@ As a Computer Science Engineering graduate, I love to solve problems by developi
 ```txt
 Total Time: 964 hrs 52 mins
 
-JavaScript                 332 hrs 38 mins ████████▓░░░░░░░░░░░░░░░░   34.47 %
+JavaScript                 332 hrs 38 mins ████████▓░░░░░░░░░░░░░░░░   34.48 %
 TypeScript                 189 hrs 49 mins █████░░░░░░░░░░░░░░░░░░░░   19.67 %
 JSON                       60 hrs 11 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 Python                     54 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
