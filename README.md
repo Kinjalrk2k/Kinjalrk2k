@@ -108,6 +108,9 @@ Go                         54 hrs 15 mins  █▒░░░░░░░░░░�
 
 <!-- ![KInjal's github stats](https://github-readme-stats.vercel.app/api?username=kinjalrk2k&show_icons=true) -->
 
+[![An image of @kinjalrk2k's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kinjalrk2k)](https://holopin.io/@kinjalrk2k)
+
+
 <!--
 **Kinjalrk2k/Kinjalrk2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
