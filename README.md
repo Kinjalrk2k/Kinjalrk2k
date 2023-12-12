@@ -70,7 +70,7 @@ As a Computer Science Engineering graduate, I love to solve problems by developi
 * :man_student: Studied Computer Science and Engineering
 * :computer: Writes code in Javascript, Typescript, Python and GoLang
 * :man_in_motorized_wheelchair: Trying to automate everything
-* :open_book: Learning Web Development
+* :open_book: Learning Cloud
 * :cry: Struggling with Competitive coding 
 * :page_with_curl: Loves to fold paper
 * :video_game: Plays Minecraft
