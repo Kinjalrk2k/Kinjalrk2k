@@ -57,7 +57,7 @@
 
 <img align="right" alt="Kinjal | Avatar" width="100px" src="https://github.com/Kinjalrk2k/Kinjalrk2k/blob/master/avatar.png" />
 
-As a Computer Science Engineering graduate, I love to solve problems by developing software. I'm always exploring new ways and technologies. I enjoy digging code, laughing at memes and writing my personal journal! *Physics* and *Space* make me nerdy. 
+As a Computer Science Engineering masters student, I love to solve problems by developing software. I'm always exploring new ways and technologies. I enjoy digging code, laughing at memes and writing my personal journal!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kinjalrk2k&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
