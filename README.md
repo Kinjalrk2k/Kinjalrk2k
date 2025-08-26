@@ -145,13 +145,13 @@ As a Computer Science Engineering masters student, I love to solve problems by d
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2,000 hrs 9 mins
+Total Time: 2,000 hrs 21 mins
 
-JavaScript                 455 hrs 32 mins █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
+JavaScript                 455 hrs 32 mins █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
 TypeScript                 406 hrs 59 mins █████░░░░░░░░░░░░░░░░░░░░   20.35 %
 Python                     399 hrs 28 mins █████░░░░░░░░░░░░░░░░░░░░   19.97 %
 Go                         128 hrs 8 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-JSON                       99 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+JSON                       100 hrs 8 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
 <!--END_SECTION:waka-->
