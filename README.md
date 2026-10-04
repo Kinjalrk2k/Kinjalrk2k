@@ -145,7 +145,7 @@ As a Computer Science Engineering masters student, I love to solve problems by d
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2,416 hrs 14 mins
+Total Time: 2,417 hrs 1 min
 
 Python                     549 hrs 19 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
 TypeScript                 493 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 %
